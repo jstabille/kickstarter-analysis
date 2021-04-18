@@ -15,11 +15,14 @@ Some extreme outliers on goals and funding provided a challenge, but we were abl
 
 ### Analysis of Outcomes Based on Launch Date
 Launch date appears to have an effect on the success of past Kickstarter campaigns.
-[Deliverable 1: Outcomes Based on Launch Date Chart](AnalysisofOutcomesBasedonLaunchDate.png)
+
+![Deliverable 1: Outcomes Based on Launch Date Chart](AnalysisofOutcomesBasedonLaunchDate.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Lower dollar value campaigns have succeeded at a higher rate, gradually declining as the campaigns' expectations get higher. Assertive conclusions should not be drawn from a sample of 8 campaigns. 
-[Deliverable 2: Outcomes Based on Goals Chart](OutcomesBasedonGoalsChart.png)
+
+![Deliverable 2: Outcomes Based on Goals Chart](OutcomesBasedonGoalsChart.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -37,7 +40,7 @@ There is approximately a 62% chance for theatre plays to be successful if the Ca
 - A specific dataset ascertaining the amount of social outreach a campaign does, such as the number of ads, tweets, might imply higher success rates for those campaigns that reached out more.
 
 ### What are some other possible tables and/or graphs that we could create?
--  A Regression analysis could be made to estimate the relationships between **staff picks** and/or **spotlight** to successful outcomes.
+- A Regression analysis could be made to estimate the relationships between **staff picks** and/or **spotlight** to successful outcomes.
 
 Difference between Regression and Correlation
 > Correlation shows the relationship between the two variables, while regression allows us to see how one affects the other.
