@@ -40,7 +40,7 @@ There is approximately a 62% chance for theatre plays to be successful if the Ca
 - A specific dataset ascertaining the amount of social outreach a campaign does, such as the number of ads, tweets, might imply higher success rates for those campaigns that reached out more.
 
 ### What are some other possible tables and/or graphs that we could create?
-- A Regression analysis could be made to estimate the relationships between **staff picks** and/or **spotlight** to successful outcomes.
+A Regression analysis could be made to estimate the relationships between **staff picks** and/or **spotlight** to successful outcomes.
 
 
 Difference between Regression and Correlation
