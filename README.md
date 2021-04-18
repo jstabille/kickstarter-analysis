@@ -42,5 +42,6 @@ There is approximately a 62% chance for theatre plays to be successful if the Ca
 ### What are some other possible tables and/or graphs that we could create?
 - A Regression analysis could be made to estimate the relationships between **staff picks** and/or **spotlight** to successful outcomes.
 
+
 Difference between Regression and Correlation
 > Correlation shows the relationship between the two variables, while regression allows us to see how one affects the other.
