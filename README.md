@@ -6,9 +6,9 @@ An analysis of historical Kickstarter campaigns, focused on theater projects, to
 ## Overview of Project
 The objective of this analysis is to provide our client, Louise, with historical information on Kickstarter campaigns similar to her campaign. With this analysis, our client will have a better comprehension of how different campaigns fared about their launch dates and how this information could be used to help make a campaign successful.
 
-### Purpose
+## Purpose
 
-## Analysis and Challenges
+### Analysis and Challenges
 Our analysis focused primarily on the launch date and campaign goals, as these are variables that we can control, and affect the success of a campaign. 
 
 Some extreme outliers on goals and funding provided a challenge, but we were able to work around this by dropping campaigns into goal dollar value categories. The data also includes campaigns that are currently live, and thus should not be compared. We filtered these out of the data, so we were only looking at completed Kickstarter campaigns.
